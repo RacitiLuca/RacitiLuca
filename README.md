@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RacitiLuca
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lucasaidraciti@gmail.com or racitilucasaid@icloud.com
 
 <!---
