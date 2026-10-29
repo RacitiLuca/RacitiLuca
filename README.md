@@ -1,13 +1,13 @@
-# Bonjour, je suis Luca Raciti 👋
+# Bonjour, je suis Luca Raciti
 
 **Étudiant en dernière année de Licence Informatique (spécialisation Big Data) · Data Analyst junior**
 
 Je recherche un **stage de fin d'études en data à partir de fin janvier 2027** (3 à 6 mois, France ou Europe), idéalement suivi d'une alternance en master.
 
-- 🎓 Licence Informatique & Systèmes d'Information, spécialisation Big Data — TED University (2024–2027)
-- 💼 Stage Data & Développement chez KF Gestion financière (Québec, 2026) : qualité des données Salesforce, tableaux de bord, plateforme web de suivi de prospects
-- 📜 Certification Microsoft **PL-300 (Power BI Data Analyst)** en préparation
-- 🇪🇺 Citoyen européen · Français, italien, arabe, anglais (C1)
+- Licence Informatique & Systèmes d'Information, spécialisation Big Data — TED University (2024–2027)
+- Stage Data & Développement chez KF Gestion financière (Québec, 2026) : qualité des données Salesforce, tableaux de bord, plateforme web de suivi de prospects
+- Certification Microsoft **PL-300 (Power BI Data Analyst)** en préparation
+- 🇪🇺 Citoyen européen · Français, italien, arabe, anglais
 
 ## Projets à la une
 
